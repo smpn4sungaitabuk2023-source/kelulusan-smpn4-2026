@@ -1,7 +1,7 @@
 
 body{font-family:Arial,sans-serif;background:#0A2342;color:white;text-align:center;margin:0}
 .container{max-width:900px;margin:auto;padding:20px}
-.logos img{width:300px;height:auto;margin:10px}
+.logos img{width:300px;max-width:85%;height:auto}
 .card{background:rgba(255,255,255,.12);padding:20px;border-radius:15px}
 input{display:block;width:80%;margin:10px auto;padding:12px}
 button{padding:12px 25px;background:#d4af37;border:none;cursor:pointer}
