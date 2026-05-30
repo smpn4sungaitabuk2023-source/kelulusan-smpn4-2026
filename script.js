@@ -1,18 +1,17 @@
-
 let siswa=[];
-fetch('https://script.google.com/macros/s/AKfycbyhzhKJRQ4S4aYpuhOpc2rOMOu2tSymOmGW50ID1Dag0TTA7iyqUOO7nPXb5i_BXx6iuQ/exec').then(r=>r.json()).then(d=>siswa=d);
 
-function cek(){
- const u=document.getElementById('username').value.trim().toLowerCase();
- const p=document.getElementById('password').value.trim();
- const s=siswa.find(x=>x.username.toLowerCase()===u && x.password===p);
-
- const h=document.getElementById('hasil');
-
- if(!s){
-   h.innerHTML='<div class="result"><h3>Data tidak ditemukan</h3></div>';
-   return;
- }
+fetch('https://script.google.com/macros/s/AKfycbyhzhKJRQ4S4aYpuhOpc2rOMOu2tSymOmGW50ID1Dag0TTA7iyqUOO7nPXb5i_BXx6iuQ/exec')
+.then(response => {
+    console.log("Response:", response);
+    return response.json();
+})
+.then(data => {
+    console.log("DATA BERHASIL:", data);
+    siswa = data;
+})
+.catch(error => {
+    console.error("ERROR:", error);
+});
 
  h.innerHTML=`
  <div class="result">
