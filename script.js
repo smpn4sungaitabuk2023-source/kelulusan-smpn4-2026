@@ -1,6 +1,6 @@
 
 let siswa=[];
-fetch('https://script.google.com/macros/s/AKfycbzfFIzm5Ea2t0xeZejGzIi9yaNFAu8C7ZoC-qVjm9TeE1A0ssQapqfnnncVv20cLEex3w/exec').then(r=>r.json()).then(d=>siswa=d);
+fetch('https://script.google.com/macros/s/AKfycbyhzhKJRQ4S4aYpuhOpc2rOMOu2tSymOmGW50ID1Dag0TTA7iyqUOO7nPXb5i_BXx6iuQ/exec').then(r=>r.json()).then(d=>siswa=d);
 
 function cek(){
  const u=document.getElementById('username').value.trim().toLowerCase();
