@@ -1,0 +1,794 @@
+[
+  {
+    "username": "Gusti Assalaam Fathanah",
+    "password": "115778049",
+    "nama": "Gusti Assalaam Fathanah",
+    "ttl": "Banjarmasin, 22 Mei 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1beRyZTBFPlHg7mCkdX_sxpDoR7IId3G2/view?usp=sharing",
+    "link_skhta": "https://drive.google.com/file/d/1beRyZTBFPlHg7mCkdX_sxpDoR7IId3G2/view?usp=sharing"
+  },
+  {
+    "username": "MUHAMMAD RASYID RIDO",
+    "password": "107366695",
+    "nama": "MUHAMMAD RASYID RIDO",
+    "ttl": "BANJARMASIN, 9 Mei 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1aVxH2m8jPssPb5EROIW9CMUc32iz11sS/view?usp=sharing",
+    "link_skhta": "https://drive.google.com/file/d/1aVxH2m8jPssPb5EROIW9CMUc32iz11sS/view?usp=sharing"
+  },
+  {
+    "username": "MUHAMMAD AFFANDI NURHILMI",
+    "password": "122316411",
+    "nama": "MUHAMMAD AFFANDI NURHILMI",
+    "ttl": "BANJARMASIN, 20 April 2012",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1JFYD_q1yUPfVFryAlHJXEMW8IZ4nZt59/view?usp=sharing",
+    "link_skhta": "https://drive.google.com/file/d/1JFYD_q1yUPfVFryAlHJXEMW8IZ4nZt59/view?usp=sharing"
+  },
+  {
+    "username": "NUR PUTRI HERFIANTI",
+    "password": "112884076",
+    "nama": "NUR PUTRI HERFIANTI",
+    "ttl": "BANJARMASIN, 23 Januari 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1_I27534Xvn2UTeRTpdHo2MLYPjF3qlo2/view?usp=sharing",
+    "link_skhta": "https://drive.google.com/file/d/1_I27534Xvn2UTeRTpdHo2MLYPjF3qlo2/view?usp=sharing"
+  },
+  {
+    "username": "Muhammad Risky",
+    "password": "118222556",
+    "nama": "Muhammad Risky",
+    "ttl": "Banjar, 17 Januari 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1AmbeLUzu41NkpD93IP7dGpIPfm0p1cdL/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1AmbeLUzu41NkpD93IP7dGpIPfm0p1cdL/view?usp=drive_link"
+  },
+  {
+    "username": "MUHAMMAD RIZA MUKTI",
+    "password": "108915966",
+    "nama": "MUHAMMAD RIZA MUKTI",
+    "ttl": "SUNGAI TABUK, 22 April 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1s9yPO2u5ovmR6QVP-Tu-AZIJNwwlIhBL/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1s9yPO2u5ovmR6QVP-Tu-AZIJNwwlIhBL/view?usp=drive_link"
+  },
+  {
+    "username": "Justineius. V. A.",
+    "password": "74612343",
+    "nama": "Justineius. V. A.",
+    "ttl": "Banjarmasin, 10 November 2007",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1qqbHcfKRdAroNhHMwTJFOpBMtdvHTUYy/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1qqbHcfKRdAroNhHMwTJFOpBMtdvHTUYy/view?usp=drive_link"
+  },
+  {
+    "username": "MUHAMMAD IQBAL",
+    "password": "75071044",
+    "nama": "MUHAMMAD IQBAL",
+    "ttl": "SUNGAI LULUT, 16 November 2007",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1qCFK73ltypAgWntIgstBTA6XKpzEY9y-/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1qCFK73ltypAgWntIgstBTA6XKpzEY9y-/view?usp=drive_link"
+  },
+  {
+    "username": "Khadijah",
+    "password": "112169874",
+    "nama": "Khadijah",
+    "ttl": "Banjarmasin, 13 Februari 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1IwxFforz7nHG5cWthmyNf5bvaYpRwlIX/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1IwxFforz7nHG5cWthmyNf5bvaYpRwlIX/view?usp=drive_link"
+  },
+  {
+    "username": "PUTRI NADIA",
+    "password": "102378284",
+    "nama": "PUTRI NADIA",
+    "ttl": "SEI BAKUNG, 17 Januari 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1plbCws7uVQ-wEf3ys_IbYpP1veM0XfWF/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1plbCws7uVQ-wEf3ys_IbYpP1veM0XfWF/view?usp=drive_link"
+  },
+  {
+    "username": "MEYLAN WAFAA",
+    "password": "101309005",
+    "nama": "MEYLAN WAFAA",
+    "ttl": "Sungai Tabuk, 11 Mei 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1e-R3LHWhFuxd-gaCYFqTFO6o8bshioU4/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1e-R3LHWhFuxd-gaCYFqTFO6o8bshioU4/view?usp=drive_link"
+  },
+  {
+    "username": "YUNITA AMANDA PUTRI",
+    "password": "103732897",
+    "nama": "YUNITA AMANDA PUTRI",
+    "ttl": "BANJARMASIN, 7 Februari 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1XB_d0oaoqGCYBu7TGce6fs6bmJ_u1DDo/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1XB_d0oaoqGCYBu7TGce6fs6bmJ_u1DDo/view?usp=drive_link"
+  },
+  {
+    "username": "Jovita Diqrah",
+    "password": "101339251",
+    "nama": "Jovita Diqrah",
+    "ttl": "Sungai Lulut, 28 Oktober 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1yPUre_aD7a1Pdkfo2BJhwnPnd8KTS2Uz/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1yPUre_aD7a1Pdkfo2BJhwnPnd8KTS2Uz/view?usp=drive_link"
+  },
+  {
+    "username": "REZAANI ADITYA",
+    "password": "112501877",
+    "nama": "REZAANI ADITYA",
+    "ttl": "BANJARMASIN, 6 Januari 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1BwZxdSnNs08R9QG35x7CnCAtP5ZpB5Vz/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1BwZxdSnNs08R9QG35x7CnCAtP5ZpB5Vz/view?usp=drive_link"
+  },
+  {
+    "username": "Muhammad Kensi Al-Kausar",
+    "password": "115499065",
+    "nama": "Muhammad Kensi Al-Kausar",
+    "ttl": "Banda Aceh, 1 Oktober 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1iGe3xeuqcoQ8wZ3ZJK5s2lJXTPSK-Bij/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1iGe3xeuqcoQ8wZ3ZJK5s2lJXTPSK-Bij/view?usp=drive_link"
+  },
+  {
+    "username": "Yuana Nita Arizmi",
+    "password": "116845229",
+    "nama": "Yuana Nita Arizmi",
+    "ttl": "Banjarmasin, 28 April 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1XJsRi_N6Vo4Sz9zIwXB0cMM7JDTlG78z/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1XJsRi_N6Vo4Sz9zIwXB0cMM7JDTlG78z/view?usp=drive_link"
+  },
+  {
+    "username": "M. ERLANGGA RADITYA",
+    "password": "104880774",
+    "nama": "M. ERLANGGA RADITYA",
+    "ttl": "BANJARMASIN, 25 Agustus 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1c8TwSqSzDo0GZtpT0wyuWoVmsJFD-KzB/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1c8TwSqSzDo0GZtpT0wyuWoVmsJFD-KzB/view?usp=drive_link"
+  },
+  {
+    "username": "NOR HAFIZAH",
+    "password": "101205483",
+    "nama": "NOR HAFIZAH",
+    "ttl": "Muara Babuat, 16 Juni 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1hYY79XW0esfl2pnLgyREe6aJ-FGtpVb3/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1hYY79XW0esfl2pnLgyREe6aJ-FGtpVb3/view?usp=drive_link"
+  },
+  {
+    "username": "JOY NUR SAPUTRA",
+    "password": "102167969",
+    "nama": "JOY NUR SAPUTRA",
+    "ttl": "BANJARMASIN, 8 September 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1nkrHZt7e6kJkbSrx1G0kXR4ZK5OBoPhs/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1nkrHZt7e6kJkbSrx1G0kXR4ZK5OBoPhs/view?usp=drive_link"
+  },
+  {
+    "username": "Vhely Erlyn Nica",
+    "password": "118053108",
+    "nama": "Vhely Erlyn Nica",
+    "ttl": "Banjarmasin, 25 April 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1GODuDTN8S4hDq3_zexXHdjgk1UnMxxkv/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1GODuDTN8S4hDq3_zexXHdjgk1UnMxxkv/view?usp=drive_link"
+  },
+  {
+    "username": "LUTFI MUSTAFFA RAHMAN",
+    "password": "99901224",
+    "nama": "LUTFI MUSTAFFA RAHMAN",
+    "ttl": "BANJARMASIN, 13 Desember 2009",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1qzmwKFcQB0LMtKSnpBI2TNDLJ8yfuLE3/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1qzmwKFcQB0LMtKSnpBI2TNDLJ8yfuLE3/view?usp=drive_link"
+  },
+  {
+    "username": "FITRI MAHARANI",
+    "password": "3103377430",
+    "nama": "FITRI MAHARANI",
+    "ttl": "Sungai Lulut, 8 Januari 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1cAcOPe4ra0kbxV38NoCVZAHeFEu3Mfoq/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1cAcOPe4ra0kbxV38NoCVZAHeFEu3Mfoq/view?usp=drive_link"
+  },
+  {
+    "username": "ARPANI",
+    "password": "84886279",
+    "nama": "ARPANI",
+    "ttl": "BANJARMASIN, 10 Desember 2008",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1fdGEQtE0q658r0fwYL2jbffxU1IBxWVU/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1fdGEQtE0q658r0fwYL2jbffxU1IBxWVU/view?usp=drive_link"
+  },
+  {
+    "username": "PUTRI",
+    "password": "3115023691",
+    "nama": "PUTRI",
+    "ttl": "Sungai Lulut, 23 Juli 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1s2XVNj2fMmh8jhyl508ljodbiWNNReMf/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1s2XVNj2fMmh8jhyl508ljodbiWNNReMf/view?usp=drive_link"
+  },
+  {
+    "username": "VIVIAN YOLANDA",
+    "password": "113089981",
+    "nama": "VIVIAN YOLANDA",
+    "ttl": "JAKARTA, 25 Januari 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1wkkcf69X65EPzEp1oDutkpbIsoenSyj1/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1wkkcf69X65EPzEp1oDutkpbIsoenSyj1/view?usp=drive_link"
+  },
+  {
+    "username": "EKA NOR AIDA",
+    "password": "3098830346",
+    "nama": "EKA NOR AIDA",
+    "ttl": "Gudang Hirang, 14 Desember 2009",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1Mn4_VJJVWez4L1OhZYBYqsAEY0cnJIWH/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1Mn4_VJJVWez4L1OhZYBYqsAEY0cnJIWH/view?usp=drive_link"
+  },
+  {
+    "username": "Laila Safira Zahro",
+    "password": "107268385",
+    "nama": "Laila Safira Zahro",
+    "ttl": "Tulungagung, 24 September 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1Qr37FnGfpanOiyDp9AFlr_-ZDJAblXwi/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1Qr37FnGfpanOiyDp9AFlr_-ZDJAblXwi/view?usp=drive_link"
+  },
+  {
+    "username": "MUHAMMAD AKBAR",
+    "password": "3101876069",
+    "nama": "MUHAMMAD AKBAR",
+    "ttl": "MARTAPURA, 12 Mei 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1B4BinJ78Dnx996xl1eH2h04kPAshXug0/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1B4BinJ78Dnx996xl1eH2h04kPAshXug0/view?usp=drive_link"
+  },
+  {
+    "username": "ALKAMIL",
+    "password": "106821076",
+    "nama": "ALKAMIL",
+    "ttl": "SEI BAKUNG, 9 Oktober 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1kKVh2eClmX671FIGF-9oJsN6WXdBvxB6/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1kKVh2eClmX671FIGF-9oJsN6WXdBvxB6/view?usp=drive_link"
+  },
+  {
+    "username": "ZULFA AZ-ZAHRA",
+    "password": "119983837",
+    "nama": "ZULFA AZ-ZAHRA",
+    "ttl": "Banjarmasin, 7 Mei 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1I3MzEFjI3hS3zQ509krcXSx6uGb_EBVe/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1I3MzEFjI3hS3zQ509krcXSx6uGb_EBVe/view?usp=drive_link"
+  },
+  {
+    "username": "JULFARIDO",
+    "password": "78331084",
+    "nama": "JULFARIDO",
+    "ttl": "SUNGAI LULUT, 28 Oktober 2007",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1784mI6QBLJ-mlJx0YDf0KN48l4oRMPtz/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1784mI6QBLJ-mlJx0YDf0KN48l4oRMPtz/view?usp=drive_link"
+  },
+  {
+    "username": "ADAM MAULANA",
+    "password": "101219779",
+    "nama": "ADAM MAULANA",
+    "ttl": "Banjarmasin, 9 September 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1IzoC3l9CHnqHwrDiT_RE92Ybg3Cf8AQK/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1IzoC3l9CHnqHwrDiT_RE92Ybg3Cf8AQK/view?usp=drive_link"
+  },
+  {
+    "username": "Felisha Febrianty",
+    "password": "99345433",
+    "nama": "Felisha Febrianty",
+    "ttl": "Marabahan, 19 Januari 2009",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1kfRIPUz49FEzupkGJgzjIkmkOlPvufP1/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1kfRIPUz49FEzupkGJgzjIkmkOlPvufP1/view?usp=drive_link"
+  },
+  {
+    "username": "Jihan Noor Aqila",
+    "password": "116980486",
+    "nama": "Jihan Noor Aqila",
+    "ttl": "Banjarmasin, 5 Maret 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1mQiKDngE5ma0kfRr9EvewNOi1uOYj-ZE/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1mQiKDngE5ma0kfRr9EvewNOi1uOYj-ZE/view?usp=drive_link"
+  },
+  {
+    "username": "ADELYA SAFITRI",
+    "password": "115895288",
+    "nama": "ADELYA SAFITRI",
+    "ttl": "LOK BUNTAR, 10 April 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1Ip6RtY6oKVc9fN3s-PJCSR5JYdL6g36V/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1Ip6RtY6oKVc9fN3s-PJCSR5JYdL6g36V/view?usp=drive_link"
+  },
+  {
+    "username": "SERLY KONIATUL KHASANAH",
+    "password": "111458223",
+    "nama": "SERLY KONIATUL KHASANAH",
+    "ttl": "TANAH BUMBU, 17 Februari 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1h2kFu4p1sK67D17lAhvK0kKYk4qBVuXh/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1h2kFu4p1sK67D17lAhvK0kKYk4qBVuXh/view?usp=drive_link"
+  },
+  {
+    "username": "Saskia Madina",
+    "password": "109062196",
+    "nama": "Saskia Madina",
+    "ttl": "Banjarmasin, 25 Maret 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1kglmSnLawo7ppbU92QccP2HCxylRZxch/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1kglmSnLawo7ppbU92QccP2HCxylRZxch/view?usp=drive_link"
+  },
+  {
+    "username": "BAGAS SAPUTRA",
+    "password": "101556109",
+    "nama": "BAGAS SAPUTRA",
+    "ttl": "SUNGAI LULUT, 4 Januari 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1aOoINQI_VAk-kFBMeAk52t-vELbSvDEE/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1aOoINQI_VAk-kFBMeAk52t-vELbSvDEE/view?usp=drive_link"
+  },
+  {
+    "username": "AULIA MEISSA PRADESTA",
+    "password": "116684703",
+    "nama": "AULIA MEISSA PRADESTA",
+    "ttl": "BANJARMASIN, 3 Mei 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1KsQ_vjJfnScjFKZmPdcWLAALbFkc8YGU/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1KsQ_vjJfnScjFKZmPdcWLAALbFkc8YGU/view?usp=drive_link"
+  },
+  {
+    "username": "KHAIRUL AZAM",
+    "password": "3103158995",
+    "nama": "KHAIRUL AZAM",
+    "ttl": "Banjarmasin, 28 Agustus 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1D1He3UPjvcVXAxnczwnSnHxOXG5ZI2WS/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1D1He3UPjvcVXAxnczwnSnHxOXG5ZI2WS/view?usp=drive_link"
+  },
+  {
+    "username": "TANIA PUTRI",
+    "password": "106573330",
+    "nama": "TANIA PUTRI",
+    "ttl": "Banjarmasin, 6 September 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1BKGk9wBP5wO-g78BvQDwFkbeQGZJp2KB/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1BKGk9wBP5wO-g78BvQDwFkbeQGZJp2KB/view?usp=drive_link"
+  },
+  {
+    "username": "Ahmad Noor Risky",
+    "password": "109158614",
+    "nama": "Ahmad Noor Risky",
+    "ttl": "Banjarmasin, 12 September 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1V7Mvwb_RtfEa-7O_pG6qh0xuoIUBO1iK/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1V7Mvwb_RtfEa-7O_pG6qh0xuoIUBO1iK/view?usp=drive_link"
+  },
+  {
+    "username": "Muhammad Rayhan",
+    "password": "116436726",
+    "nama": "Muhammad Rayhan",
+    "ttl": "Banjarmasin, 24 Desember 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1uv6e6JKdTOtYZhskNL9O-VISGvbM10s7/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1uv6e6JKdTOtYZhskNL9O-VISGvbM10s7/view?usp=drive_link"
+  },
+  {
+    "username": "Sarbani",
+    "password": "85777853",
+    "nama": "Sarbani",
+    "ttl": "Banjarmasin, 19 Februari 2008",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1MyEUd2OD2SyhapwlgkGXo_Je8bpM9Hwu/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1MyEUd2OD2SyhapwlgkGXo_Je8bpM9Hwu/view?usp=drive_link"
+  },
+  {
+    "username": "NURUL ISMI",
+    "password": "106331914",
+    "nama": "NURUL ISMI",
+    "ttl": "SUNGAI TABUK, 26 Oktober 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1JJVqajZuIdKjtrjxyYBCyDFWsva_a7Hq/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1JJVqajZuIdKjtrjxyYBCyDFWsva_a7Hq/view?usp=drive_link"
+  },
+  {
+    "username": "RIDHO SATRIO",
+    "password": "105812313",
+    "nama": "RIDHO SATRIO",
+    "ttl": "BANJAR, 21 November 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1yQUlcMBNxQa-o7dxgYQr8x7qfxuqCg0t/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1yQUlcMBNxQa-o7dxgYQr8x7qfxuqCg0t/view?usp=drive_link"
+  },
+  {
+    "username": "ANJELITA RAHMAH",
+    "password": "103161472",
+    "nama": "ANJELITA RAHMAH",
+    "ttl": "Banjarmasin, 15 Desember 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1cF1zyCyd0giz9HE_mqH0iSdwm5k2esro/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1cF1zyCyd0giz9HE_mqH0iSdwm5k2esro/view?usp=drive_link"
+  },
+  {
+    "username": "HENDRA GANDI",
+    "password": "105637285",
+    "nama": "HENDRA GANDI",
+    "ttl": "SUNGAI LULUT, 15 Juli 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1WkY0P1B6W3Q5E0aQc_wsUGnaU7sVLE6N/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1WkY0P1B6W3Q5E0aQc_wsUGnaU7sVLE6N/view?usp=drive_link"
+  },
+  {
+    "username": "NUR MUNA AZHARA",
+    "password": "119261410",
+    "nama": "NUR MUNA AZHARA",
+    "ttl": "SUNGAI BAKUNG, 5 Juli 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1Ip2csX7K9JMwQOm-ht8lo53qpAYz6k_v/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1Ip2csX7K9JMwQOm-ht8lo53qpAYz6k_v/view?usp=drive_link"
+  },
+  {
+    "username": "M. ZET AQSA MAULANI",
+    "password": "119070266",
+    "nama": "M. ZET AQSA MAULANI",
+    "ttl": "BANJARMASIN, 27 Januari 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1qmPn7eQTd6UI1Evv-hL8heRDSm3XiUKF/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1qmPn7eQTd6UI1Evv-hL8heRDSm3XiUKF/view?usp=drive_link"
+  },
+  {
+    "username": "NOOR DELIYA ALFIANA",
+    "password": "109719433",
+    "nama": "NOOR DELIYA ALFIANA",
+    "ttl": "SEI LULUT, 25 Desember 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1231kAbYhRexWdSTg4Eene-ApuwsIx_xo/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1231kAbYhRexWdSTg4Eene-ApuwsIx_xo/view?usp=drive_link"
+  },
+  {
+    "username": "Muhammad Julpani",
+    "password": "104173043",
+    "nama": "Muhammad Julpani",
+    "ttl": "Banjarmasin, 22 Juli 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1IQ305TkN0yiStS0gYSFxjoYwyjdS33Hl/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1IQ305TkN0yiStS0gYSFxjoYwyjdS33Hl/view?usp=drive_link"
+  },
+  {
+    "username": "GHINA HASANAH",
+    "password": "127996862",
+    "nama": "GHINA HASANAH",
+    "ttl": "SUNGAI TABUK, 9 Januari 2012",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1OFrmycaCoJlb_7j4lPC5gdE_eBiLPS2K/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1OFrmycaCoJlb_7j4lPC5gdE_eBiLPS2K/view?usp=drive_link"
+  },
+  {
+    "username": "Pahmi",
+    "password": "3116099364",
+    "nama": "Pahmi",
+    "ttl": "Banjarmasin, 19 April 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1QYAPHC6YgfnJnjLVOKhVtGblgIidvhWC/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1QYAPHC6YgfnJnjLVOKhVtGblgIidvhWC/view?usp=drive_link"
+  },
+  {
+    "username": "Marsa",
+    "password": "111258575",
+    "nama": "Marsa",
+    "ttl": "Banjarmasin, 12 Maret 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1S3Wam-0AFAiBWtS7T18cUhb2fIxQ6aUB/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1S3Wam-0AFAiBWtS7T18cUhb2fIxQ6aUB/view?usp=drive_link"
+  },
+  {
+    "username": "EL GUAJE",
+    "password": "118160676",
+    "nama": "EL GUAJE",
+    "ttl": "Banjarmasin, 29 Juni 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1n_YKeK0ntCCZPMwPJejT9QbXwhmQwWG5/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1n_YKeK0ntCCZPMwPJejT9QbXwhmQwWG5/view?usp=drive_link"
+  },
+  {
+    "username": "ANDARA RIZKA",
+    "password": "104667306",
+    "nama": "ANDARA RIZKA",
+    "ttl": "BANJAR, 20 Agustus 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1i4hnNzr7EFpe6JW43LbVjVjAJL7UHXRD/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1i4hnNzr7EFpe6JW43LbVjVjAJL7UHXRD/view?usp=drive_link"
+  },
+  {
+    "username": "DINA RASTA AULIA",
+    "password": "107791344",
+    "nama": "DINA RASTA AULIA",
+    "ttl": "Banjarmasin, 28 November 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1AR9HGlEbgQ8mh6LYVHkFeWxMEXTmGUQA/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1AR9HGlEbgQ8mh6LYVHkFeWxMEXTmGUQA/view?usp=drive_link"
+  },
+  {
+    "username": "RIDWAN",
+    "password": "109157913",
+    "nama": "RIDWAN",
+    "ttl": "Sungai Tabuk, 4 Juni 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1MGya-fsxQ3iFMadmTKdJ6nnsKDqr-Wfm/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1MGya-fsxQ3iFMadmTKdJ6nnsKDqr-Wfm/view?usp=drive_link"
+  },
+  {
+    "username": "REIHANA AZKA",
+    "password": "113400473",
+    "nama": "REIHANA AZKA",
+    "ttl": "Banjarmasin, 20 Februari 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1cROCGYc9hL5CsE3x46aAg9sXj7DiRooa/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1cROCGYc9hL5CsE3x46aAg9sXj7DiRooa/view?usp=drive_link"
+  },
+  {
+    "username": "AULIA AZIZAH",
+    "password": "103691977",
+    "nama": "AULIA AZIZAH",
+    "ttl": "BANJARMASIN, 26 Oktober 2009",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1TkxC80lNYOUc6Lf0HhFx80ovPiaVzSQB/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1TkxC80lNYOUc6Lf0HhFx80ovPiaVzSQB/view?usp=drive_link"
+  },
+  {
+    "username": "AZURA",
+    "password": "113387706",
+    "nama": "AZURA",
+    "ttl": "SEI LULUT, 26 Januari 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1spXcK_91o9fLDg8iP_j1yLKpBy27UruL/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1spXcK_91o9fLDg8iP_j1yLKpBy27UruL/view?usp=drive_link"
+  },
+  {
+    "username": "ANNESYA AL MAGHVYRA",
+    "password": "3109763830",
+    "nama": "ANNESYA AL MAGHVYRA",
+    "ttl": "KAPUAS, 22 Oktober 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1cwqwPwh1nSeu51iha_HSJr0YKxcKWNhK/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1cwqwPwh1nSeu51iha_HSJr0YKxcKWNhK/view?usp=drive_link"
+  },
+  {
+    "username": "AHMAD ILHAM",
+    "password": "104513010",
+    "nama": "AHMAD ILHAM",
+    "ttl": "SEI LULUT, 10 Januari 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/15UzbcCnlfOMsyfSNHn3uwZ8gWLkqViJg/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/15UzbcCnlfOMsyfSNHn3uwZ8gWLkqViJg/view?usp=drive_link"
+  },
+  {
+    "username": "Radika Malik Aqsa",
+    "password": "104396914",
+    "nama": "Radika Malik Aqsa",
+    "ttl": "Banjarmasin, 12 Mei 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1JJ_6mGHz8UhwXzHPeiS1F3_iy0uUdyeL/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1JJ_6mGHz8UhwXzHPeiS1F3_iy0uUdyeL/view?usp=drive_link"
+  },
+  {
+    "username": "JEFRI ALI LUTBI",
+    "password": "107776475",
+    "nama": "JEFRI ALI LUTBI",
+    "ttl": "SUNGAI LULUT, 4 Juli 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1OaXo5Vm0UJPqFTjS8vV9gV0Gj4RdKEE5/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1OaXo5Vm0UJPqFTjS8vV9gV0Gj4RdKEE5/view?usp=drive_link"
+  },
+  {
+    "username": "Muhammad Fuad Azhari",
+    "password": "108667685",
+    "nama": "Muhammad Fuad Azhari",
+    "ttl": "Banjarmasin, 13 Juni 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1sQcs0ufofVM0wD2CfrnpVhgCbgIJq-KO/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1sQcs0ufofVM0wD2CfrnpVhgCbgIJq-KO/view?usp=drive_link"
+  },
+  {
+    "username": "ULFA",
+    "password": "115482452",
+    "nama": "ULFA",
+    "ttl": "BANJARMASIN, 27 Juli 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1vFALRoEicZvKu5uzmAfBhNLVzwyGrSNg/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1vFALRoEicZvKu5uzmAfBhNLVzwyGrSNg/view?usp=drive_link"
+  },
+  {
+    "username": "Syarfani",
+    "password": "3104319191",
+    "nama": "Syarfani",
+    "ttl": "Banjarmasin, 16 Oktober 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/18xrDR-05nPs4lkt4RFa1UoeBuKEpTyzc/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/18xrDR-05nPs4lkt4RFa1UoeBuKEpTyzc/view?usp=drive_link"
+  },
+  {
+    "username": "MUHAMMAD RAYYAN AR RAHMAN",
+    "password": "114837299",
+    "nama": "MUHAMMAD RAYYAN AR RAHMAN",
+    "ttl": "BANJARMASIN, 23 April 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1-jz0O60ZTYlsgUT8GCl_Gg96Cj6fMN9c/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1-jz0O60ZTYlsgUT8GCl_Gg96Cj6fMN9c/view?usp=drive_link"
+  },
+  {
+    "username": "AJENG CHALISA PUTRI",
+    "password": "113309077",
+    "nama": "AJENG CHALISA PUTRI",
+    "ttl": "BANJARMASIN, 12 Juni 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1Dg1nuuTvJcLwvHcjWt1pA81LrqfyO0V8/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1Dg1nuuTvJcLwvHcjWt1pA81LrqfyO0V8/view?usp=drive_link"
+  },
+  {
+    "username": "MARLINA",
+    "password": "106233936",
+    "nama": "MARLINA",
+    "ttl": "BANJARMASIN, 16 Mei 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1vCsZYfLX4xLOopdQ62kn3KnnSEQYvwFS/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1vCsZYfLX4xLOopdQ62kn3KnnSEQYvwFS/view?usp=drive_link"
+  },
+  {
+    "username": "M. Fahri Ramadan",
+    "password": "106329309",
+    "nama": "M. Fahri Ramadan",
+    "ttl": "Banjarmasin, 18 Agustus 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1BI3qICHNYN85-2pz9ChWyBw64mOBL2ZA/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1BI3qICHNYN85-2pz9ChWyBw64mOBL2ZA/view?usp=drive_link"
+  },
+  {
+    "username": "Rasti Khairunisa",
+    "password": "101176456",
+    "nama": "Rasti Khairunisa",
+    "ttl": "Banjarmasin, 16 Juni 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1Dg4iGxXhMm8x91TKbLOAGrjJUrC3BuC0/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1Dg4iGxXhMm8x91TKbLOAGrjJUrC3BuC0/view?usp=drive_link"
+  },
+  {
+    "username": "ANNISA RISKA SUDIBYO",
+    "password": "3105419231",
+    "nama": "ANNISA RISKA SUDIBYO",
+    "ttl": "Martapura, 9 November 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1HnilFfFv6pTUkUW7qRXKfv-BhemeB9a3/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1HnilFfFv6pTUkUW7qRXKfv-BhemeB9a3/view?usp=drive_link"
+  },
+  {
+    "username": "RAFA JAYA PRATAMA",
+    "password": "113778171",
+    "nama": "RAFA JAYA PRATAMA",
+    "ttl": "BANJARMASIN, 27 April 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1lTEtC2bpaeGoEcL2PzaRu2xMw-188GwP/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1lTEtC2bpaeGoEcL2PzaRu2xMw-188GwP/view?usp=drive_link"
+  },
+  {
+    "username": "MUHAMMAD REJA AULIA",
+    "password": "103914753",
+    "nama": "MUHAMMAD REJA AULIA",
+    "ttl": "SUNGAI TABUK, 24 Maret 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/12xG5oLKJfliKGyzqiJYum81MsWeeHYnR/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/12xG5oLKJfliKGyzqiJYum81MsWeeHYnR/view?usp=drive_link"
+  },
+  {
+    "username": "Muhammad Zaki",
+    "password": "108600446",
+    "nama": "Muhammad Zaki",
+    "ttl": "Banjarmasin, 24 Agustus 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1ggp5UpC9JrmcJQurWQBbKtKkIWDf8LnS/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1ggp5UpC9JrmcJQurWQBbKtKkIWDf8LnS/view?usp=drive_link"
+  },
+  {
+    "username": "ASRI NINA NOVIANTI",
+    "password": "101744280",
+    "nama": "ASRI NINA NOVIANTI",
+    "ttl": "Banjarmasin, 4 November 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1wmRVMMkwCEn3yZchjmqzEuqXRHSqVyVv/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1wmRVMMkwCEn3yZchjmqzEuqXRHSqVyVv/view?usp=drive_link"
+  },
+  {
+    "username": "NOVI KARUNIA PUTRI",
+    "password": "96481867",
+    "nama": "NOVI KARUNIA PUTRI",
+    "ttl": "SUNGAI LULUT, 22 September 2009",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1eSMfCnZ_MRuyYrqRVm4XA4Kx0CqqK7It/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1eSMfCnZ_MRuyYrqRVm4XA4Kx0CqqK7It/view?usp=drive_link"
+  },
+  {
+    "username": "ZULIA MULIA SARI",
+    "password": "104700299",
+    "nama": "ZULIA MULIA SARI",
+    "ttl": "BANJARMASIN, 2 Juli 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/17xxSiEOGuyMGO6b3Hg3zRv_VbwdzePPs/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/17xxSiEOGuyMGO6b3Hg3zRv_VbwdzePPs/view?usp=drive_link"
+  },
+  {
+    "username": "Antung Fatimah Azzahra",
+    "password": "111060045",
+    "nama": "Antung Fatimah Azzahra",
+    "ttl": "Banjarmasin, 20 Januari 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1O8eRpDhTjl08vXDQ0TTw4HPPJAWktO_1/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1O8eRpDhTjl08vXDQ0TTw4HPPJAWktO_1/view?usp=drive_link"
+  },
+  {
+    "username": "ANISA AHLA",
+    "password": "107865086",
+    "nama": "ANISA AHLA",
+    "ttl": "SUNGAI LULUT, 10 Januari 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1v2TivbgVxRvFeBYC9CyPvp01u8CYCvho/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1v2TivbgVxRvFeBYC9CyPvp01u8CYCvho/view?usp=drive_link"
+  },
+  {
+    "username": "SITI RAISYA",
+    "password": "3106998512",
+    "nama": "SITI RAISYA",
+    "ttl": "Sungai Tabuk, 26 Oktober 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1RJlJBE0WY-sc-ThCNBBoBcIiRyRJE3TS/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1RJlJBE0WY-sc-ThCNBBoBcIiRyRJE3TS/view?usp=drive_link"
+  },
+  {
+    "username": "ALFAIZIN ILHAM NUR MAULANA",
+    "password": "115984042",
+    "nama": "ALFAIZIN ILHAM NUR MAULANA",
+    "ttl": "Ngawi, 8 Januari 2011",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1MqkS1VMMIR85B5DfGcjoQcZos9Q8VMPJ/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1MqkS1VMMIR85B5DfGcjoQcZos9Q8VMPJ/view?usp=drive_link"
+  },
+  {
+    "username": "HOKY VIRGO NATA",
+    "password": "103503436",
+    "nama": "HOKY VIRGO NATA",
+    "ttl": "BANJARMASIN, 25 Januari 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1szGY2ownwKJ00Dbd5goOoTY0wcVrln6e/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1szGY2ownwKJ00Dbd5goOoTY0wcVrln6e/view?usp=drive_link"
+  },
+  {
+    "username": "RAMADANI",
+    "password": "3100816254",
+    "nama": "RAMADANI",
+    "ttl": "Sungai Lulut, 23 Agustus 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1AUoTHXItlKVXDk0Hj5JaKhGguAPFaQbJ/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1AUoTHXItlKVXDk0Hj5JaKhGguAPFaQbJ/view?usp=drive_link"
+  },
+  {
+    "username": "ZULFA MADINATUL ADHA",
+    "password": "109245841",
+    "nama": "ZULFA MADINATUL ADHA",
+    "ttl": "SUNGAI TABUK, 17 November 2010",
+    "status": "LULUS",
+    "link_skl": "https://drive.google.com/file/d/1xCEpZ2JyUhPuF4afyQ4ZGZa8Ah8ZS38K/view?usp=drive_link",
+    "link_skhta": "https://drive.google.com/file/d/1xCEpZ2JyUhPuF4afyQ4ZGZa8Ah8ZS38K/view?usp=drive_link"
+  }
+]
